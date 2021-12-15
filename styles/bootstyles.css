@@ -1,0 +1,100 @@
+/*ike melanson dec 15*/
+
+.navbutt{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1.25%;
+    padding-bottom: 1.25%;
+    display: inline;
+    float: right;
+    width: 5%;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: rgb(8, 122, 74);
+    text-align: center;
+}
+
+.navlink{
+    text-decoration: none;
+    font-family: futura;
+    color: white;
+    font-size: 1.2vw;
+    text-align: center;
+
+}
+
+.navplane{
+    width: 100%;
+    display:inline-block;
+    padding-bottom: 34px;
+    padding-top: 17px;
+    margin-bottom: 48px;
+    border-bottom-style: solid;
+    border-block-color: white;
+    
+    
+}
+
+a:hover{
+    color: rgb(194, 194, 194);
+}
+a{
+    color: white;
+}
+
+.tableplane{
+    display: inline-block;
+    width: 100%;
+}
+
+.table{
+    width: 45%;
+    height: 45%;
+    border-radius: 15px;
+    padding:0px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 12.5%;
+}
+
+.break{
+    display: inline-block;
+    width: 80%;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-family: futura;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.background {
+    background-image: url('../images/leaves.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.footer {
+    text-align:center ;
+    border-top: solid 2px grey;
+    height: 120px;
+    color: white;
+    border-top: solid;
+    margin-top: 48px;
+}
+
+ul{
+    
+    margin-right: 8%;
+}

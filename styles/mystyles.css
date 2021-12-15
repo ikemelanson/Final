@@ -1,0 +1,97 @@
+/*Ike Melanson dec 14*/
+
+
+/* index and aboutme styles*/
+
+body{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.special{
+    font-family: futura;
+    /*background-color:#7195b583;*/
+    border:solid 3px #7195b583;
+    border-radius: 20px;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 25px;
+}
+.footer{
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    border-top: 2px solid rgb(54, 54, 54);
+    text-align: center;
+    background-color: antiquewhite;
+}
+.title{
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    font-size: 35pt;
+}
+.center{
+    text-align: center;
+    text-decoration: underline;
+}
+.video{
+    
+    border-radius: 20px;
+    float: left;
+    width: 45%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.floatlist{
+    text-align: left;
+    float: right;
+    width: 45%;
+    font-family: futura;
+    border:solid 3px #e29f68cb;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 195px;
+    margin-bottom: 195px;
+    padding: 15px;
+}
+.caption{
+    
+    border-radius: 20px;
+    float: left;
+    width: 45%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+    
+.column{
+    float: left;
+    width: 33%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.fix{
+    margin: 30px;
+    margin-right: 220px;
+}
+.special2{
+    font-family: futura;
+    /*background-color:#7195b583;*/
+    border:solid 3px #e29f68cb;
+    border-radius: 20px;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 25px;
+}
+
+
+/*dashboard styles*/
+
